@@ -1,3 +1,11 @@
 The structures, Molprobity values, and variant data for the study titled: 
   "The prevalence of protein misfolding as a mechanism for hereditary deafness"
 Structures are organized by gene where protein structures labeled by their gene name and NP accession number. 
+
+File Descriptions
+
+Data_All_Variants.zip: Contains all relevant data collected for this study as a csv file for all 
+
+AF3_OtoProteinV3_Molprobity_Stats.xlsx: Contains MolProbity statistics for all protein structures in the DVD before and after optimization techniques described in the study
+
+Gene_Percentages_Above_1kcalpermol.xlsx: Contains the information by gene for pathogenic variants with a greater than 1 kcal/mol folding free energy difference. Any gene without a labeled pathogenic variant is excluded.
