@@ -14,4 +14,8 @@ threshold_postprocessing.mlx: A MATLAB live script for calculating priors, poste
 
 OtoV2_V3_summary.xlsx: Contains summary counts for the 2023 and 2026 study of variant labels.
 
-Data_VUS_98.csv: Contains all VUS that reach the threshold for prioritization.
+Data_VUS_98.csv: Contains all VUS that reach the 98% posterior threshold for prioritization.
+
+Data_VUS_60.csv: Contains all VUS that reach the 60% posterior threshold.
+
+Label_Percentage_Folding.xlsx: Contains percentage of each label that is above a certain folding free energy cutoff.
